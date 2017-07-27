@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-ENV REFRESHED_AT 2016-08-19
+ENV REFRESHED_AT 2017-07-01
 
 MAINTAINER Leonardo Luduena <lleo@linux.com>
 
