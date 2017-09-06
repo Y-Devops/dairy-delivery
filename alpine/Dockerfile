@@ -1,5 +1,5 @@
 FROM alpine:3.6
-ENV REFRESHED_AT 2017-01-01
+ENV REFRESHED_AT 2017-09-01
 
 MAINTAINER Leonardo Luduena <lleo@linux.com>
 
