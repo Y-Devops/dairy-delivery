@@ -2,3 +2,6 @@
 	path = debian/jessie
 	url = https://github.com/elnomade/dairyd-debian.git
 	branch = jessie
+[submodule "debian/stretch"]
+	path = debian/stretch
+	url = https://github.com/elnomade/dairyd-debian.git
