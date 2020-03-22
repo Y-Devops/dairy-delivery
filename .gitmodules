@@ -5,3 +5,7 @@
 [submodule "debian/stretch"]
 	path = debian/stretch
 	url = https://github.com/elnomade/dairyd-debian.git
+[submodule "centos/8"]
+	path = centos/8
+	url = https://github.com/Y-Devops/dairyd-centos.git
+	branch = 8
