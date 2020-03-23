@@ -23,3 +23,7 @@
 	path = ubuntu/bionic
 	url = https://github.com/Y-Devops/dairyd-ubuntu.git
 	branch = bionic
+[submodule "ubuntu/focal"]
+	path = ubuntu/focal
+	url = https://github.com/Y-Devops/dairyd-ubuntu.git
+	branch = focal
