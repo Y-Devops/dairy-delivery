@@ -31,3 +31,7 @@
 	path = ubuntu/trusty
 	url = https://github.com/Y-Devops/dairyd-ubuntu.git
 	branch = trusty
+[submodule "ubuntu/xenial"]
+	path = ubuntu/xenial
+	url = https://github.com/Y-Devops/dairyd-ubuntu.git
+	branch = xenial
