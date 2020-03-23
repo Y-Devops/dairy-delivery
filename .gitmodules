@@ -43,3 +43,6 @@
 	path = debian/stretch
 	url = https://github.com/Y-Devops/dairyd-debian.git
 	branch = stretch
+[submodule "alpine/3.11"]
+	path = alpine/3.11
+	url = https://github.com/Y-Devops/dairyd-alpine.git
