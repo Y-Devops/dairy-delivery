@@ -31,3 +31,7 @@
 [submodule "debian/buster"]
 	path = debian/buster
 	url = https://github.com/Y-Devops/dairyd-debian.git
+[submodule "debian/sid"]
+	path = debian/sid
+	url = https://github.com/Y-Devops/dairyd-debian.git
+	branch = sid
