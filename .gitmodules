@@ -35,3 +35,7 @@
 	path = debian/sid
 	url = https://github.com/Y-Devops/dairyd-debian.git
 	branch = sid
+[submodule "debian/jessie"]
+	path = debian/jessie
+	url = https://github.com/Y-Devops/dairyd-debian.git
+	branch = jessie
