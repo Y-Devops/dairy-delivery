@@ -27,3 +27,7 @@
 	path = ubuntu/focal
 	url = https://github.com/Y-Devops/dairyd-ubuntu.git
 	branch = focal
+[submodule "ubuntu/trusty"]
+	path = ubuntu/trusty
+	url = https://github.com/Y-Devops/dairyd-ubuntu.git
+	branch = trusty
