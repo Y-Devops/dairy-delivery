@@ -39,3 +39,7 @@
 	path = debian/jessie
 	url = https://github.com/Y-Devops/dairyd-debian.git
 	branch = jessie
+[submodule "debian/stretch"]
+	path = debian/stretch
+	url = https://github.com/Y-Devops/dairyd-debian.git
+	branch = stretch
