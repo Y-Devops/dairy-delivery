@@ -19,3 +19,7 @@
 [submodule "ubuntu/eoan"]
 	path = ubuntu/eoan
 	url = https://github.com/Y-Devops/dairyd-ubuntu.git
+[submodule "ubuntu/bionic"]
+	path = ubuntu/bionic
+	url = https://github.com/Y-Devops/dairyd-ubuntu.git
+	branch = bionic
