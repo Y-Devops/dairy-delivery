@@ -28,3 +28,6 @@
 	path = ubuntu/xenial
 	url = https://github.com/Y-Devops/dairyd-ubuntu.git
 	branch = xenial
+[submodule "debian/buster"]
+	path = debian/buster
+	url = https://github.com/Y-Devops/dairyd-debian.git
