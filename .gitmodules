@@ -9,3 +9,10 @@
 	path = centos/8
 	url = https://github.com/Y-Devops/dairyd-centos.git
 	branch = 8
+[submodule "centos/6"]
+	path = centos/6
+	url = https://github.com/Y-Devops/dairyd-centos.git
+	branch = 6
+[submodule "centos/7"]
+	path = centos/7
+	url = https://github.com/Y-Devops/dairyd-centos.git
